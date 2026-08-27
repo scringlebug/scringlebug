@@ -1,5 +1,5 @@
 ## hi
-student studying software in his free time, nixos glazer. free to collab on stuff
+student studying software in his free time, newbie fullstack dev, nixos glazer. free to collab on stuff
 ## my stack
 * python
 * nix
