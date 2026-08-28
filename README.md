@@ -2,8 +2,10 @@
 student studying software in his free time, newbie fullstack dev, nixos glazer. free to collab on stuff
 ## my stack
 * python
+* sqlite
 * nix
 * bash script/shell
+* linux
 * qml
 * go (learning)
 * c (learning)
@@ -12,6 +14,6 @@ student studying software in his free time, newbie fullstack dev, nixos glazer. 
 * tkinter
 * quickshell
 
-# if u want to talk to me:
+## if u want to talk to me:
 * playernamename@proton.me
 * prod.tijuana on discord
